@@ -1,5 +1,7 @@
 # gemCalc
 TODO
-gems required for buying given amout of elixir, gold, and darkelixir</br>
-troop composition for best timing</br>
+gems required for buying given amout of elixir, gold, and darkelixir
+
+troop composition for best timing
+
 UI
