@@ -1,7 +1,14 @@
 # gemCalc
 TODO
-gems required for buying given amout of elixir, gold, dark elixir, and skip a certain amount of time.
 
-troop composition for best timing
+Gem Calculator:
+  1. Buying Gold 
+  2. Elixir
+  3. Skipping Build Time
 
-Material UI
+
+Troop Calculator 
+  1.Best Time 
+  
+UI
+  1. Should Do Material If Possible
