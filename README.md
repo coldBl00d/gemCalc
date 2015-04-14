@@ -9,6 +9,8 @@ Gem Calculator:
 
 Troop Calculator :
   1.Best Time
+  2. ...
   
 UI
   1. Should Do Material If Possible
+  2. ...
