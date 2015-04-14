@@ -7,8 +7,8 @@ Gem Calculator:
   3. Skipping Build Time
 
 
-Troop Calculator 
-  1.Best Time 
+Troop Calculator :
+  1.Best Time
   
 UI
   1. Should Do Material If Possible
