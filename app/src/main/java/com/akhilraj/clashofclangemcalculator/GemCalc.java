@@ -29,7 +29,7 @@ public class GemCalc {
             /*
                @Adithya Same stuff that you said but doing the multiplication (timeinSec-plateauTime) I was not getting the result (brackets scene aayi kaanum)
                 So used overall division
-                ***Delete constRester Read**
+                ***Delete After Read**
              */
 
         if ((float)i <= constTime[2])
@@ -84,14 +84,14 @@ Correct
                     return (int)0.0F;
                 }
             }
-            
+
             if (res <= constGem[i])
             {
                 return (int)(float)Math.round((res - constGem[i - 1]) / ((constGem[i] - constGem[i - 1]) / (constRes[i] - constRes[i - 1])) + constRes[i - 1]);
             }
             i++;
 
-           
+
 
 
         }while (true);
