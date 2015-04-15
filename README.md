@@ -2,12 +2,14 @@
 TODO
 
 Gem Calculator:
-  1. Buying Gold 
-  2. Elixir
-  3. Skipping Build Time
+  1. Buying Gold --check code
+  2. Elixir     --check code
+  3. Dark Elixi
+  4. Skipping Build Time  -- check code
 
 
 Troop Calculator :
+
   1.Best Time
   2. ...
   
